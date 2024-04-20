@@ -24,5 +24,5 @@ document.body.style.backgroundSize = "100% 100%";
 // option 2: inserting image element
 
 const bgImage = document.createElement("img");
-bgImage.src = `./img/${chosenImage}`;
+bgImage.src = `./images/${chosenImage}`;
 // document.body.appendChild(bgImage);
